@@ -135,17 +135,16 @@ bool askReplay()
         std::cout << "Do you want to play again? (Y/N): ";
         std::cin >> choice;
 
-        // Clear the input buffer
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
         if (choice == 'N' || choice == 'n')
         {
-            system("clear"); // Clear terminal
+            system("clear");
             return false;
         }
         else if (choice == 'Y' || choice == 'y')
         {
-            system("clear"); // Clear terminal
+            system("clear");
             return true;
         }
         else

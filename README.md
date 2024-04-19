@@ -30,3 +30,4 @@ g++ RockPaperScissors.cpp -o rps
 - The game consists of three options: Rock, Paper, and Scissors.
 - You will play against the computer, which randomly selects one of the three options.
 - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.# RockPaperScissorsInCPP
+# RockPaperScissorsInCPP
