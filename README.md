@@ -14,11 +14,11 @@ git clone https://github.com/AFP17/RockPaperScissors-in-C-.git
 ```
 2. Navigate to the project directory:
 ```
-cd RockPaperScissorsInC++
+cd RockPaperScissors-in-C-
 ```
 3. Compile the source code using any C++ compiler.
 ```
-g++ main.cpp -o rps
+g++ RockPaperScissors.cpp -o rps
 ```
 4. Run the executable file:
 ```
@@ -30,4 +30,3 @@ g++ main.cpp -o rps
 - The game consists of three options: Rock, Paper, and Scissors.
 - You will play against the computer, which randomly selects one of the three options.
 - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
-# RockPaperScissors-in-C-
