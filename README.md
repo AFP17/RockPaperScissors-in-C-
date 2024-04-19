@@ -10,11 +10,11 @@ This is a simple command-line implementation of the classic Rock, Paper, Scissor
 # `How to Use`
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/AFP17/RockPaperScissors-in-C-.git
+git clone https://github.com/AFP17/RockPaperScissorsInCPP.git
 ```
 2. Navigate to the project directory:
 ```
-cd RockPaperScissors-in-C-
+cd RockPaperScissorsInCPP
 ```
 3. Compile the source code using any C++ compiler.
 ```
@@ -29,4 +29,4 @@ g++ RockPaperScissors.cpp -o rps
 # `How to play`
 - The game consists of three options: Rock, Paper, and Scissors.
 - You will play against the computer, which randomly selects one of the three options.
-- Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
+- Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.# RockPaperScissorsInCPP
